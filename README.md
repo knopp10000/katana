@@ -25,6 +25,19 @@ A tail-wagging signal that joy is here.
 She owns every room with a quiet grace,  
 Our favorite colleague — the fluffiest face.
 
+## The Last Log of the Silverbeak
+From Albatross,
+through Cardinal,
+through Tuesdays survived,
+riffs played,
+dogs walked,
+code refactored,
+and crews led —
+
+The captain now sails under his own flag.
+
+May Trollmoj conquer every sea.
+
 ## Farewell
 λ farewell = crew => crew.map(memory => keepForever(memory))
 
