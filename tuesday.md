@@ -1,0 +1,1 @@
+Worst. Day. Of. The. Week.

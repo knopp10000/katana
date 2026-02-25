@@ -24,3 +24,9 @@ No standup is dull when Katana is near,
 A tail-wagging signal that joy is here.  
 She owns every room with a quiet grace,  
 Our favorite colleague — the fluffiest face.
+
+## Farewell
+λ farewell = crew => crew.map(memory => keepForever(memory))
+
+Thank you for leading us.
+The crew will always fly with you.
