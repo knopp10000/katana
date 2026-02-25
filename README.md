@@ -1,5 +1,12 @@
-# katana
-Very Cute. Such Wow.
+# 🐕 KATANA
+## The most loyal companion of silverbeak.
+
+
+Some captains sail with crews.
+Some captains sail with code.
+The best captains sail with both.
+
+This repository exists to document the legacy of a team lead who survived Albatross, forged Cardinal, defeated Tuesdays, and now sails under his own banner.
 
 ## Ode to Katana
 
